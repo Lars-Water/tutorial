@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31d1e026-7dbd-4d77-9c12-b90e94db26e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/swagger_server/postman/collection.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_server/postman/environment.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swagger_server/postman/collection.json" beforeDir="false" afterPath="$PROJECT_DIR$/postman/collection.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swagger_server/postman/environment.json" beforeDir="false" afterPath="$PROJECT_DIR$/postman/environment.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +42,11 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/larry/Documents/SE/DevOps/Individual/tutorial&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\larry\Documents\SE\DevOps\Individual\tutorial" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
